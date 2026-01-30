@@ -1,0 +1,20 @@
+# Visual Studio cache
+.vs/
+*.VC.db
+*.sdf
+*.opendb
+*.ipch
+
+# Build output
+Debug/
+Release/
+x64/
+*.obj
+*.pch
+*.pdb
+*.ilk
+
+# User-specific
+*.user
+*.log
+*.tmp

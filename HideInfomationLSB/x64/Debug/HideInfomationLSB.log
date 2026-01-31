@@ -1,2 +1,17 @@
 ﻿  HideInfomationLSBDlg.cpp
+E:\Project\HideInfomationLSB\HideInfomationLSB\HideInfomationLSBDlg.cpp(222,75): warning C4267: 'argument': conversion from 'size_t' to 'uLong', possible loss of data
+  (compiling source file '/HideInfomationLSBDlg.cpp')
+  
+E:\Project\HideInfomationLSB\HideInfomationLSB\HideInfomationLSBDlg.cpp(246,58): warning C4267: 'argument': conversion from 'size_t' to 'uLong', possible loss of data
+  (compiling source file '/HideInfomationLSBDlg.cpp')
+  
+E:\Project\HideInfomationLSB\HideInfomationLSB\HideInfomationLSBDlg.cpp(249,77): warning C4267: 'argument': conversion from 'size_t' to 'uLong', possible loss of data
+  (compiling source file '/HideInfomationLSBDlg.cpp')
+  
+E:\Project\HideInfomationLSB\HideInfomationLSB\HideInfomationLSBDlg.cpp(295,47): warning C4267: 'argument': conversion from 'size_t' to 'DWORD', possible loss of data
+  (compiling source file '/HideInfomationLSBDlg.cpp')
+  
+E:\Project\HideInfomationLSB\HideInfomationLSB\HideInfomationLSBDlg.cpp(351,75): warning C4267: 'argument': conversion from 'size_t' to 'uLong', possible loss of data
+  (compiling source file '/HideInfomationLSBDlg.cpp')
+  
   HideInfomationLSB.vcxproj -> E:\Project\HideInfomationLSB\x64\Debug\HideInfomationLSB.exe
